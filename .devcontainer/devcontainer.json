@@ -18,7 +18,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "pip install --user -r requirements.txt && pip install --upgrade pip"
+	// "postCreateCommand": "pip install --user -r requirements.txt && pip install --upgrade pip"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
