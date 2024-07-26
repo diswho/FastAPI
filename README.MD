@@ -3,6 +3,7 @@
 `whoami`
 ### Check Linux
 `cat /etc/issue`
+`lsb_release -a`
 ### Check git
 `git --version`
 ### Check package
