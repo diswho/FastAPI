@@ -6,7 +6,7 @@
 	// "image": "mcr.microsoft.com/devcontainers/python:1-3.10-bullseye",
 	"build":{
 		"dockerfile": "Dockerfile"
-	},
+	}
 	// "features": {
 	// 	"ghcr.io/devcontainers-contrib/features/coverage-py:2": {}
 	// },
@@ -18,7 +18,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "pip install -r requirements.txt && pip install --upgrade pip"
+	// "postCreateCommand": "pip install --user -r requirements.txt && pip install --upgrade pip"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
