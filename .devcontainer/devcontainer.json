@@ -7,9 +7,9 @@
 	"build":{
 		"dockerfile": "Dockerfile"
 	},
-	"features": {
-		"ghcr.io/devcontainers-contrib/features/coverage-py:2": {}
-	},
+	// "features": {
+	// 	"ghcr.io/devcontainers-contrib/features/coverage-py:2": {}
+	// },
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
