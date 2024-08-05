@@ -5,7 +5,14 @@
   "dockerComposeFile": "../../docker-compose.yml",
   "service": "backend",
   "shutdownAction": "none",
-  "workspaceFolder": "/workspaces/Docker/FastAPI/backend"
+  "workspaceFolder": "/workspaces/Docker/FastAPI/backend",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Continue.continue"
+      ]
+    }
+  }
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   // "features": {},
