@@ -5,7 +5,7 @@
   "dockerComposeFile": "../../docker-compose.yml",
   "service": "frontend",
   "shutdownAction": "none",
-  "workspaceFolder": "/workspaces/Docker/FastAPI/frontend"
+  "workspaceFolder": "/workspaces"
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   // "features": {},

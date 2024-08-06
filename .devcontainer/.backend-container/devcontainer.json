@@ -5,7 +5,7 @@
   "dockerComposeFile": "../../docker-compose.yml",
   "service": "backend",
   "shutdownAction": "none",
-  "workspaceFolder": "/workspaces/Docker/FastAPI/backend",
+  "workspaceFolder": "/workspaces",
   "customizations": {
     "vscode": {
       "extensions": [
