@@ -27,6 +27,10 @@
 
 `ls -lah`
 
+### Check Env
+
+`printenv | sort`
+
 ### Update
 
 `sudo apt-get update`
